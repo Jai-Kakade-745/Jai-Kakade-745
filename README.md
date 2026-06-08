@@ -15,11 +15,6 @@ I'm dedicated to writing clean, maintainable code and collaborating with amazing
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Jai-Kakade-745&theme=dracula&color=black&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai-Kakade-745&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Kakade-745&layout=compact&theme=dracula&hide_border=true)
-
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,50:2563eb,100:111827&text=Jai%20%7C%20Computer%20Scientist&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Code.%20Build.%20Innovate.%20%E2%9A%A1&descAlignY=58&descSize=18"
