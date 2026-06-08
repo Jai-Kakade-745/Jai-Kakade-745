@@ -1,4 +1,5 @@
-# Hi 👋 I'm Jai 💻 1st year Computer Science student at IIT kharagpur
+# Hi 👋 I'm Jai
+# 💻 1st year Computer Science student at IIT kharagpur
 
 🤖 Interested in AI + software  
 🚀 Building projects  
