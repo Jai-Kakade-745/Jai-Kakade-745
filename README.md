@@ -1,9 +1,23 @@
-# Hi 👋 I'm Jai
+# Hi 👋 I'm Jai 💻 1st Computer Science student at IIT khadagpur 
 
-💻 Computer Science student  
 🤖 Interested in AI + software  
 🚀 Building projects  
 📚 Learning every day
+
+## 🚀 About Me
+
+I'm dedicated to writing clean, maintainable code and collaborating with amazing communities. Whether it's solving complex problems, learning new technologies, or contributing to meaningful projects, I'm always up for the challenge.
+
+**I am always open for collaborations!** Let's build something amazing together. 🤝
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=saarors&theme=dracula&color=black&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saarors&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Kakade-745&layout=compact&theme=dracula&hide_border=true)
+
 
 <p align="center">
   <img
