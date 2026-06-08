@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jai 💻 1st Computer Science student at IIT khadagpur 
+# Hi 👋 I'm Jai 💻 1st year Computer Science student at IIT khadagpur 
 
 🤖 Interested in AI + software  
 🚀 Building projects  
@@ -36,3 +36,8 @@ I'm dedicated to writing clean, maintainable code and collaborating with amazing
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 </p>
+
+## 🐍 Contribution Activity
+
+![Contribution Graph](https://raw.githubusercontent.com/saarors/saarors/output/github-contribution-grid-snake.svg)
+
