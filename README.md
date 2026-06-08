@@ -13,9 +13,9 @@ I'm dedicated to writing clean, maintainable code and collaborating with amazing
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=saarors&theme=dracula&color=black&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jai-Kakade-745&theme=dracula&color=black&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saarors&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai-Kakade-745&show_icons=true&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Kakade-745&layout=compact&theme=dracula&hide_border=true)
 
